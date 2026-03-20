@@ -1,0 +1,6 @@
+BiletStandard 55 08:00 09:30
+Abonament 67 09:00 12:00
+BiletReducere 22 10:00 11:00
+BiletTuristic 15 14:00 16:00
+BiletStandard 100 07:30 08:15
+BiletReducere 555 15:00 16:30
