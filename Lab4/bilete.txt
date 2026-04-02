@@ -1,0 +1,4 @@
+BiletStandard B00101 08:00 09:01
+BiletReducere B00102 10:00 11:45
+Abonament     B00103 07:30 08:30
+BiletStandard B00104 14:00 14:59
